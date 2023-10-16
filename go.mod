@@ -8,7 +8,4 @@ require (
 	golang.org/x/sys v0.1.0
 )
 
-replace (
-	github.com/xtls/xray-core v1.8.1 => github.com/rosebe/xray-core 81a0546
-	golang.org/x/mobile v0.0.0-20221020085226-b36e6246172e => golang.org/x/mobile v0.0.0-20231006135142-2b44d11868fe
-)
+replace github.com/xtls/xray-core v1.8.1 => github.com/rosebe/xray-core 81a0546
