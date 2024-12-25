@@ -57,3 +57,5 @@ require (
 )
 
 replace google.golang.org/grpc v1.69.2 => google.golang.org/grpc v1.66.3
+replace github.com/xtls/xray-core v1.8.25-0.20241218133935-cab2fdefd321 => github.com/rosebe/xray-core 994e87cbe103
+
