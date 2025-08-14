@@ -52,5 +52,3 @@ require (
 	gvisor.dev/gvisor v0.0.0-20250606001031-fa4c4dd86b43 // indirect
 	lukechampine.com/blake3 v1.4.1 // indirect
 )
-
-replace github.com/xtls/xray-core v1.250803.0 => github.com/rosebe/xray-core 994e87cbe103
