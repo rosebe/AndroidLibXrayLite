@@ -53,5 +53,5 @@ require (
 )
 
 replace gvisor.dev/gvisor => gvisor.dev/gvisor v0.0.0-20250606001031-fa4c4dd86b43
-replace github.com/xtls/xray-core v1.251201.0 => github.com/rosebe/xray-core 994e87cbe103
+replace github.com/xtls/xray-core v1.251202.0 => github.com/rosebe/xray-core 994e87cbe103
 
